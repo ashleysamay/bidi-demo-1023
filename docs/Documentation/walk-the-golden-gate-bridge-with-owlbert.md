@@ -1,5 +1,6 @@
 ---
 title: Walk the Golden Gate Bridge with Owlbert!
+excerpt: A curated tour of one of the country's most famous bridges!
 deprecated: false
 hidden: false
 metadata:
