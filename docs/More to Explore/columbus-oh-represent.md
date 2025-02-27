@@ -33,3 +33,7 @@ metadata:
 </Cards>
 
 Here is an edit that I made in GitHub!
+
+<br />
+
+<KirbRCBTest />
