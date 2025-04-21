@@ -14,7 +14,7 @@ next:
 ---
 Welcome to ReadMe! :owlbert:
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out. Hello on 12/04! Hi! This is from github! 
+You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
 <br />
 
