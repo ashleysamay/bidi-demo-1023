@@ -40,8 +40,6 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 
 <IconList title="Example Card" text="Make sure to sign up for a free account" icon="fa-user" href="#" />
 
-<br />
-
 # 📝 Customize your docs
 
 What you're looking at right now is what we call our **Guides**. It's a free-form place to write to your heart's content! And the best part is... you aren't alone! Your users can contribute (with your approval, don't worry!) using the **[Suggested Edits](https://docs.readme.com/main/docs/suggested-edits)** feature on every page. It's like GitHub Pull Requests, but for text!
