@@ -1,5 +1,5 @@
 ---
-title: Getting Started with bididemo1023
+title: Getting Started with ReadMe Refactored
 excerpt: >-
   This page will help you get started with bididemo1023. You'll be up and
   running in a jiffy!
