@@ -16,7 +16,7 @@ Welcome to ReadMe! :owlbert:
 
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
-# This is a heading
+# This is a built in component
 
 <Cards columns={4}>
   <Card title="First Card" href="https://readme.com" icon="fa-home" target="_blank">
@@ -35,6 +35,12 @@ You're on your way to building an awesome developer hub! Here's some of the thin
     **Excepteur sint occaecat cupidatat non proident**
   </Card>
 </Cards>
+
+# This is a custom component
+
+<IconList title="Example Card" text="Make sure to sign up for a free account" icon="fa-user" href="#" />
+
+<br />
 
 # 📝 Customize your docs
 
