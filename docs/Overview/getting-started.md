@@ -1,7 +1,7 @@
 ---
 title: Getting Started with ReadMe Refactored
 excerpt: >-
-  This page will help you get started with bididemo1023. You'll be up and
+  This page will help you get started with ReadMe Refactored. You'll be up and
   running in a jiffy!
 deprecated: false
 hidden: false
